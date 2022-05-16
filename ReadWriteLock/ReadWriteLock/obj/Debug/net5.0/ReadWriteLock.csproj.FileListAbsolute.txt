@@ -1,0 +1,16 @@
+D:\ReadWriteLock\ReadWriteLock\ReadWriteLock\bin\Debug\net5.0\ReadWriteLock.exe
+D:\ReadWriteLock\ReadWriteLock\ReadWriteLock\bin\Debug\net5.0\ReadWriteLock.deps.json
+D:\ReadWriteLock\ReadWriteLock\ReadWriteLock\bin\Debug\net5.0\ReadWriteLock.runtimeconfig.json
+D:\ReadWriteLock\ReadWriteLock\ReadWriteLock\bin\Debug\net5.0\ReadWriteLock.runtimeconfig.dev.json
+D:\ReadWriteLock\ReadWriteLock\ReadWriteLock\bin\Debug\net5.0\ReadWriteLock.dll
+D:\ReadWriteLock\ReadWriteLock\ReadWriteLock\bin\Debug\net5.0\ref\ReadWriteLock.dll
+D:\ReadWriteLock\ReadWriteLock\ReadWriteLock\bin\Debug\net5.0\ReadWriteLock.pdb
+D:\ReadWriteLock\ReadWriteLock\ReadWriteLock\obj\Debug\net5.0\ReadWriteLock.csprojAssemblyReference.cache
+D:\ReadWriteLock\ReadWriteLock\ReadWriteLock\obj\Debug\net5.0\ReadWriteLock.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReadWriteLock\ReadWriteLock\ReadWriteLock\obj\Debug\net5.0\ReadWriteLock.AssemblyInfoInputs.cache
+D:\ReadWriteLock\ReadWriteLock\ReadWriteLock\obj\Debug\net5.0\ReadWriteLock.AssemblyInfo.cs
+D:\ReadWriteLock\ReadWriteLock\ReadWriteLock\obj\Debug\net5.0\ReadWriteLock.csproj.CoreCompileInputs.cache
+D:\ReadWriteLock\ReadWriteLock\ReadWriteLock\obj\Debug\net5.0\ReadWriteLock.dll
+D:\ReadWriteLock\ReadWriteLock\ReadWriteLock\obj\Debug\net5.0\ref\ReadWriteLock.dll
+D:\ReadWriteLock\ReadWriteLock\ReadWriteLock\obj\Debug\net5.0\ReadWriteLock.pdb
+D:\ReadWriteLock\ReadWriteLock\ReadWriteLock\obj\Debug\net5.0\ReadWriteLock.genruntimeconfig.cache
